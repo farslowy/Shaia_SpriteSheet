@@ -1,0 +1,124 @@
+SpriteForge - Sprite Sheet Metadata
+Generated: 9/3/2026, 07.15.26
+Application: SpriteForge
+
+File: Shaia SpriteSheet.png
+Total Frames: 109
+Columns: 11, Rows: 10
+Cell Width: 256px, Cell Height: 256px
+
+How to use:
+- The sprite sheet is a grid of 11 columns and 10 rows.
+- Each frame is exactly 256x256 pixels.
+- To animate, iterate through the grid from left to right, top to bottom.
+
+Frame Data:
+Frame 0 (common_00_idle_stand_A01.png): x=0, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 1 (common_00_idle_stand_A02.png): x=256, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 2 (common_00_idle_stand_A03.png): x=512, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 3 (common_00_idle_stand_A05.png): x=768, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 4 (common_00_idle_stand_A04.png): x=1024, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 5 (common_00_idle_stand_A06.png): x=1280, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 6 (common_00_idle_stand_A07.png): x=1536, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 7 (common_00_idle_stand_A08.png): x=1792, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 8 (common_00_idle_stand_B01.png): x=2048, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 9 (common_00_idle_stand_B02.png): x=2304, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 10 (common_00_idle_stand_B03.png): x=2560, y=0, width=256, height=256, offsetX=0, offsetY=0
+Frame 11 (common_00_idle_stand_B04.png): x=0, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 12 (common_00_idle_stand_B05.png): x=256, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 13 (common_00_idle_stand_B06.png): x=512, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 14 (common_00_idle_stand_B07.png): x=768, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 15 (common_00_idle_stand_B08.png): x=1024, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 16 (common_01_crouch_to_idle01.png): x=1280, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 17 (common_01_crouch_to_idle02.png): x=1536, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 18 (common_01_idle_crouch.png): x=1792, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 19 (common_01_idle_to_crouch01.png): x=2048, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 20 (common_01_idle_to_crouch02.png): x=2304, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 21 (common_03_turn_crouch01.png): x=2560, y=256, width=256, height=256, offsetX=0, offsetY=0
+Frame 22 (common_03_turn_crouch02.png): x=0, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 23 (common_03_turn_stand_A01.png): x=256, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 24 (common_03_turn_stand_B01.png): x=512, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 25 (common_03_turn_stand_A02.png): x=768, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 26 (common_03_turn_stand_B02.png): x=1024, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 27 (common_11_walk01.png): x=1280, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 28 (common_11_walk02.png): x=1536, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 29 (common_11_walk03.png): x=1792, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 30 (common_11_walk04.png): x=2048, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 31 (common_04_back01.png): x=2304, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 32 (common_11_walk05.png): x=2560, y=512, width=256, height=256, offsetX=0, offsetY=0
+Frame 33 (common_11_walk06.png): x=0, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 34 (common_11_walk07.png): x=256, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 35 (common_11_walk08.png): x=512, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 36 (common_11_walk09.png): x=768, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 37 (common_11_walk10.png): x=1024, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 38 (common_11_walk11.png): x=1280, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 39 (common_12_run01.png): x=1536, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 40 (common_11_walk12.png): x=1792, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 41 (common_12_run02.png): x=2048, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 42 (common_12_run04.png): x=2304, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 43 (common_12_run03.png): x=2560, y=768, width=256, height=256, offsetX=0, offsetY=0
+Frame 44 (common_12_run05.png): x=0, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 45 (common_12_run06.png): x=256, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 46 (common_13_break01.png): x=512, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 47 (common_13_break02.png): x=768, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 48 (common_13_break03.png): x=1024, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 49 (common_13_break04.png): x=1280, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 50 (common_13_break05.png): x=1536, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 51 (common_21_jump_begin01.png): x=1792, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 52 (common_21_jump_down01.png): x=2048, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 53 (common_21_jump_down03.png): x=2304, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 54 (common_21_jump_up01.png): x=2560, y=1024, width=256, height=256, offsetX=0, offsetY=0
+Frame 55 (common_21_jump_down02.png): x=0, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 56 (common_21_jump01.png): x=256, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 57 (common_21_jump02.png): x=512, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 58 (common_21_jump03.png): x=768, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 59 (common_21_jump04.png): x=1024, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 60 (common_21_jump05.png): x=1280, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 61 (common_22_landing01.png): x=1536, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 62 (common_22_landing02.png): x=1792, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 63 (common_22_landing03.png): x=2048, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 64 (common_31_guard_stand01.png): x=2304, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 65 (common_31_guard_stand02.png): x=2560, y=1280, width=256, height=256, offsetX=0, offsetY=0
+Frame 66 (common_22_landing04.png): x=0, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 67 (common_XX_jump_down02.png): x=256, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 68 (common_32_guard_crouch02.png): x=512, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 69 (common_32_guard_crouch01.png): x=768, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 70 (common_XX_jump_down01.png): x=1024, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 71 (common_XX_jump_up01.png): x=1280, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 72 (common_XX_jump_up02.png): x=1536, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 73 (common_XX_jump01.png): x=1792, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 74 (common_XX_jump02.png): x=2048, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 75 (common_XX_jump03.png): x=2304, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 76 (common_XX_jump04.png): x=2560, y=1536, width=256, height=256, offsetX=0, offsetY=0
+Frame 77 (common_XX_jump05.png): x=0, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 78 (common_XX_landing02.png): x=256, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 79 (common_XX_landing01.png): x=512, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 80 (common_XX_landing03.png): x=768, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 81 (common_XX_landing04.png): x=1024, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 82 (damage_01_damage_head.png): x=1280, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 83 (damage_02_damage_body.png): x=1536, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 84 (damage_03_damage_crouch.png): x=1792, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 85 (damage_11_blow_air01.png): x=2048, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 86 (damage_11_blow_begin01.png): x=2304, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 87 (damage_11_blow_begin02.png): x=2560, y=1792, width=256, height=256, offsetX=0, offsetY=0
+Frame 88 (damage_11_blow_begin03.png): x=0, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 89 (damage_11_blow_landing_A01.png): x=256, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 90 (damage_11_blow_landing_A02.png): x=512, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 91 (damage_11_blow_landing_A03.png): x=768, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 92 (damage_11_blow_landing_A04.png): x=1024, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 93 (damage_11_blow_lying_A01.png): x=1280, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 94 (damage_12_blow_landing_B04.png): x=1536, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 95 (damage_12_blow_lying_B01.png): x=1792, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 96 (damage_13_standup01.png): x=2048, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 97 (damage_13_standup02.png): x=2304, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 98 (damage_13_standup03.png): x=2560, y=2048, width=256, height=256, offsetX=0, offsetY=0
+Frame 99 (damage_13_standup04.png): x=0, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 100 (damage_21_stun.png): x=256, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 101 (damage_22_bind.png): x=512, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 102 (damage_23_electric01.png): x=768, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 103 (damage_23_electric02.png): x=1024, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 104 (damage_24_blow_burn_begin01.png): x=1280, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 105 (damage_24_blow_burn_begin02.png): x=1536, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 106 (damage_24_blow_burn_begin03.png): x=1792, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 107 (damage_24_blowburn_air01.png): x=2048, y=2304, width=256, height=256, offsetX=0, offsetY=0
+Frame 108 (damage_24_blowburn_air02.png): x=2304, y=2304, width=256, height=256, offsetX=0, offsetY=0
